@@ -343,8 +343,8 @@
 <div id="publications">
 <h2 class="heading">Publications</h2>
 <div style="display: block">
-<ul style="text-align:left">
-<li>Julien Romero et al., <a href='https://arxiv.org/abs/1905.10989'>Commonsense Properties from Query Logs and Question Answering Forums</a>, <i>ACM CIKM 2019 (Acceptance rate 19%)</i></li>
+  <ul style="text-align:left">
+    
 <li>Archit Sakhadeo, Nisheeth Srivastava, <a href='https://arxiv.org/abs/1810.10419'>Effective extractive summarization using frequency-filtered entity relationship graphs</a>, <i>arXiv preprint</i></li>
 <li>Shubhankar Deshpande et al., <a href='https://arxiv.org/abs/1812.02358'>GMRT Archive Processing Project</a><i>, The 28th annual international Astronomical Data Analysis Software & Systems (ADASS) conference</i>, November 2018. Proceedings will be published by <i>The Astronomical Society of the Pacific (ASP)</i></li>
 </div>
